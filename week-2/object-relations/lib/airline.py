@@ -1,2 +1,2 @@
-class Airline():
+class Airline:
     pass
